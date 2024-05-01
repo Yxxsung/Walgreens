@@ -1,3 +1,10 @@
+#imports added by Sophia 04/30/2024
+import inventory
+import POS 
+import UIWalgreens
+
+
+
 class Inventory:
     def __init__(self):
         # Initialize an empty dictionary to store inventory items and their quantities

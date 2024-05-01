@@ -2,11 +2,13 @@
 #Transaction, Checkout, Return, and void
 
 import inventory
+import POS 
+import UIWalgreens
 
 
 #Transaction Function meant to collect items for checkout
 def Transaction():
-    
+
 
 
 #Checkout function
